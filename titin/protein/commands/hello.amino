@@ -1,0 +1,4 @@
+command hello
+    write "Hello from Amino!"
+    newline
+end
