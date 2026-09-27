@@ -4,7 +4,7 @@ you need:
     qemu-desktop (you only really need x86)  
     grub  
     xorriso  
-    mtools
+    mtools  
 i think thats it  
 if you find anything else just install it, should be straight forward  
 
