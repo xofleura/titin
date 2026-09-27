@@ -1,0 +1,20 @@
+command amifetch
+    newline
+    write " |-|    *          +--------------------+"
+    newline
+    write " |-|   _    *  __  | TITIN "
+    info version
+    newline
+    write " |-|   |  *    |/' | ARCHITECTURE: "
+    info architecture
+    newline
+    write " |-|   |~*~~~o~|   | KERNEL: "
+    info version
+    newline
+    write " |-|   |  O o *|   | BUFFER: ON"
+    newline
+    write "/___\  |o___O__|   | CONSOLE: VGA"
+    newline
+    write "                   +--------------------+"
+    newline
+end
