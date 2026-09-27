@@ -1,5 +1,0 @@
-command version
-    write "Titin "
-    info version
-    newline
-end

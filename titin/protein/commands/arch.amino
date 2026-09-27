@@ -1,4 +1,0 @@
-command arch
-    info architecture
-    newline
-end
